@@ -41,7 +41,7 @@ This repository documents my complete learning journey throughout the bootcampâ€
 
 **Repository**
 
-- https://github.com/Gaurav167hue/https://github.com/Gaurav167hue/Health-Tech---Automated-PHI-PII/tree/Health-Tech
+- https://github.com/Gaurav167hue/Health-Tech---Automated-PHI-PII
 
 **Scope**
 
