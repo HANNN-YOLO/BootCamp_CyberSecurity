@@ -37,6 +37,17 @@ This repository documents my complete learning journey throughout the bootcamp�
 
 ---
 
+### Month 2 — HealthTech - Automated PHI/PII Redaction Pipeline for LLMs
+
+**Repository**
+
+- https://github.com/Gaurav167hue/https://github.com/Gaurav167hue/Health-Tech---Automated-PHI-PII/tree/Health-Tech
+
+**Scope**
+
+- Week 3 Deliverables
+- ***
+
 ## 👨‍💻 Personal Project
 
 ### Secure OTA Firmware
