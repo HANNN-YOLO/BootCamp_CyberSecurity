@@ -237,6 +237,21 @@ The team repository focuses on the **Week 3 Mapping Engine deliverables**, inclu
 - End-to-end pseudonymization flow validation
 - Week 3 documentation
 
+Initially, I joined this project as **Member 3**, responsible for the **Mapping Engine** component.
+
+Due to **Member 2**'s inactivity, I also assumed responsibility for the **Week 2 Detection Engine**, which included:
+
+- Regex-based PII detection
+- Phone number detection
+- Email detection
+- Date detection
+- ID detection
+- PII detection using Microsoft Presidio
+- Name detection (patients, doctors, addresses, and context)
+- Integration of the Regex and Microsoft Presidio detection pipelines
+- Detection testing and validation
+- Week 2 documentation
+
 The project specification defines the core goal as protecting healthcare data before it reaches an external LLM while preserving enough context for the model to remain useful.
 
 ---
@@ -428,7 +443,7 @@ Based on the completed four-week implementation, the HealthTech project delivers
 | Project                        | Team Contribution | Individual Contribution | Final Status |
 | ------------------------------ | ----------------- | ----------------------- | ------------ |
 | 🔐 Secure OTA Firmware         | Week 1            | Weeks 1–4               | ✅ Completed |
-| 🏥 HealthTech Privacy Pipeline | Week 3            | Weeks 1–4               | ✅ Completed |
+| 🏥 HealthTech Privacy Pipeline | Week 3 & Week 2   | Weeks 1–4               | ✅ Completed |
 
 # 🧩 Technical Skills Demonstrated
 
